@@ -1,3 +1,5 @@
+Jobconnect 
+
 JobConnect é uma plataforma inovadora projetada para conectar profissionais a oportunidades de trabalho de forma rápida, eficiente e segura. A aplicação oferece funcionalidades que facilitam tanto a busca por vagas quanto a gestão de candidaturas, permitindo que empresas e candidatos encontrem o ajuste perfeito para suas necessidades.
 
 Principais funcionalidades:
