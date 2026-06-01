@@ -1,7 +1,5 @@
 <?php
-/**
- * Sidebar da empresa — inclusa em todas as páginas da empresa.
- */
+
 $currentPage = basename($_SERVER['PHP_SELF']);
 ?>
 <aside class="sidebar" id="sidebar">
