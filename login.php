@@ -1,8 +1,5 @@
 <?php
-/**
- * JobConnect — login.php
- * Página de login para candidatos e empresas.
- */
+
 session_start();
 // Se já estiver logado, redireciona para o dashboard correto
 if (!empty($_SESSION['user_id'])) {
