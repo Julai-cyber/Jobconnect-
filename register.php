@@ -1,8 +1,5 @@
 <?php
-/**
- * JobConnect — register.php
- * Cadastro de candidatos e empresas.
- */
+
 session_start();
 if (!empty($_SESSION['user_id'])) {
     $dest = $_SESSION['user_type'] === 'empresa' ? 'empresa/dashboard.php' : 'candidato/dashboard.php';
